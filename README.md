@@ -21,7 +21,7 @@ The goal of this lab is to help you become familiar with `UIGestureRecognizers`.
     * King Arthur's sword (swordinrock.png), should be in the top left or bottom left.
     * The Shrub (shrub.png) and the rake (rake.png) should be near each other (choose what your definition of *near* is)
     * The regular stone (rock1.png) needs to be on a different North/South half of the screen as King Arthur's Sword (swordinrock.png). So if the sword is on the top, the other stone should be on the bottom.
-  5. When all of these conditions are met, present a `UIAlertViewController` informing the user that they won. Add a `UIAlertAction` that dismisses the alert. When the alert is dismissed, scramble the locations of the `UIImageViews` (i.e. give all of them a random location in the garden).
+  5. When all of these conditions are met, present a `UIAlertController` informing the user that they won. Add a `UIAlertAction` that dismisses the alert. When the alert is dismissed, scramble the locations of the `UIImageViews` (i.e. give all of them a random location in the garden).
 
 ## Advanced
 
@@ -33,3 +33,5 @@ The goal of this lab is to help you become familiar with `UIGestureRecognizers`.
   * Gesture Recognizers are one to one, meaning that Gesture Recognizers can only be associated with one view at a time.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/zenGarden' title='zenGarden'>zenGarden</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-zenGarden-lab'>Swift Zen Garden Lab</a> on Learn.co and start learning to code for free.</p>
